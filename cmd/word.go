@@ -1,10 +1,11 @@
 package cmd
 
 import (
-	"github.com/overstarry/tour/internal/word"
-	"github.com/spf13/cobra"
 	"log"
 	"strings"
+
+	"github.com/overstarry/tour/internal/word"
+	"github.com/spf13/cobra"
 )
 
 var str string
